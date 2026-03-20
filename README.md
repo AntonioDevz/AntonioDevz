@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&random=false&width=435&lines=Ola,+me+chamo+AntonioDevz" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&random=false&width=435&lines=Ola,+me+chamo+Antonio" alt="Typing SVG" /> </p>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/👨‍💻-AntonioDevz-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Badge AntonioDevz" />
