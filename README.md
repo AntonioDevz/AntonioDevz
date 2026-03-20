@@ -1,4 +1,4 @@
-# <p alinhar="centro"> <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=32&pausa=1000&cor=58A6FF&aleatório=falso&largura=435&linhas=AntonioDevz" alt="Digitando SVG" /> </p>
+# <p alinhar="centro"> <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=32&pausa=1000&cor=58A6FF&aleatório=falso&largura=435&linhas=Ola,+me+chamo+AntonioDevz" alt="Digitando SVG" /> </p>
 
 <h1 alinhar="centro">
   <imagem fonte="https://img.shields.io/badge/👨‍💻-AntonioDevz-58A6FF?style=for-the-badge&logotipo=github&logoColor=branco" alt="Emblema AntonioDevz" />
@@ -12,7 +12,7 @@
     <imagem fonte="https://img.shields.io/github/stars/AntonioDevz?color=58A6FF&rótulo=Total+Estrelas&logotipo=estrela&estilo=para-o-emblema" alt="Estrelas" />
   </a>
   <a href="https://github.com/AntonioDevz?tab=repositories">
-    <imagem fonte="https://img.shields.io/github/repo-size/AntonioDevz/AntonioDevz?color=58A6FF&protocolo=Repositórios&logotipo=massa&estilo=para-o-emblema" alt="Repositórios" />
+    <imagem fonte="https://img.shields.io/github/repo-size/AntonioDevz/AntonioDevz?color=58A6FF&rótulo=Repositórios&logotipo=pasta&estilo=para-o-emblema" alt="Repositórios" />
   </a>
   <imagem fonte="https://img.shields.io/badge/PRs-Welcome-58A6FF?style=for-the-badge&logotipo=git&logoColor=branco" alt="PRs bem-vindos" />
 </p>
@@ -44,13 +44,13 @@ Desenvolvido ou especializado em **SaaS**, **APIs** e **Aplicações Web** com f
 ### Linguagens
 <imagem fonte="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logotipo=javascript&logotipoCor=preto" alt="JavaScript" />
 <imagem fonte="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logotipo=python&logoColor=branco" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<imagem fonte="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logotipo=html5&logoColor=branco" alt="HTML5" />
+<imagem fonte="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logotipo=css3&logoColor=branco" alt="CSS3" />
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+### Estruturas e Bibliotecas
+<imagem fonte="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logotipo=nodedotjs&logoColor=branco" alt="Node.js" />
+<imagem fonte="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logotipo=expresso&logoColor=branco" alt="Express.js" />
+<imagem fonte="https://img.shields.io/badge/React-20232A?style=for-the-badge&logotipo=reagir&logotipoCor=61DAFB" alt="Reagir" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 
 ### Databases & Cloud
