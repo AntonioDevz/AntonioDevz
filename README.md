@@ -1,27 +1,27 @@
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&random=false&width=435&lines=Ola,+me+chamo+AntonioDevz" alt="Typing SVG" /> </p>
+# <p alinhar="centro"> <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=32&pausa=1000&cor=58A6FF&aleatório=falso&largura=435&linhas=AntonioDevz" alt="Digitando SVG" /> </p>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻-AntonioDevz-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Badge AntonioDevz" />
+<h1 alinhar="centro">
+  <imagem fonte="https://img.shields.io/badge/👨‍💻-AntonioDevz-58A6FF?style=for-the-badge&logotipo=github&logoColor=branco" alt="Emblema AntonioDevz" />
 </h1>
 
-<p align="center">
+<p alinhar="centro">
   <a href="https://github.com/AntonioDevz">
-    <img src="https://img.shields.io/github/followers/AntonioDevz?color=58A6FF&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
+    <imagem fonte="https://img.shields.io/github/followers/AntonioDevz?color=58A6FF&rótulo=Seguidores&logotipo=github&estilo=para-o-emblema" alt="Seguidores" />
   </a>
   <a href="https://github.com/AntonioDevz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AntonioDevz?color=58A6FF&label=Total+Stars&logo=star&style=for-the-badge" alt="Stars" />
+    <imagem fonte="https://img.shields.io/github/stars/AntonioDevz?color=58A6FF&rótulo=Total+Estrelas&logotipo=estrela&estilo=para-o-emblema" alt="Estrelas" />
   </a>
   <a href="https://github.com/AntonioDevz?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/AntonioDevz/AntonioDevz?color=58A6FF&label=Repos&logo=folder&style=for-the-badge" alt="Repositories" />
+    <imagem fonte="https://img.shields.io/github/repo-size/AntonioDevz/AntonioDevz?color=58A6FF&protocolo=Repositórios&logotipo=massa&estilo=para-o-emblema" alt="Repositórios" />
   </a>
-  <img src="https://img.shields.io/badge/PRs-Welcome-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="PRs Welcome" />
+  <imagem fonte="https://img.shields.io/badge/PRs-Welcome-58A6FF?style=for-the-badge&logotipo=git&logoColor=branco" alt="PRs bem-vindos" />
 </p>
 
 ---
 
 ## Sobre Mim
 
-Desenvolvedor especializado em **SaaS**, **APIs** e **Aplicações Web** com foco em soluções escaláveis na nuvem. Trabalho com as principais tecnologias do mercado para entregar sistemas robustos e de alto desempenho. Apaixonado por criar ferramentas que otimizam processos e agregam valor real aos negócios.
+Desenvolvido ou especializado em **SaaS**, **APIs** e **Aplicações Web** com foco em soluções escaláveis na nuvem. Trabalho com as principais tecnologias do mercado para entrar sistemas robustos e de alto desempenho. Apaixonado por criar ferramentas que otimizam processos e agregam valor real aos negativos.
 
 ---
 
@@ -31,19 +31,19 @@ Desenvolvedor especializado em **SaaS**, **APIs** e **Aplicações Web** com foc
 |:-----|:-------------|
 | **Backend** | Node.js, Express, Python, FastAPI |
 | **Frontend** | JavaScript, React, HTML/CSS |
-| **Cloud** | AWS, Deploy, Infraestrutura |
+| **Nuvem** | AWS, Implantar, Infraestrutura |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB |
 | **Ferramentas** | Git, Docker, APIs REST |
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Pilha Tecnológica
 
-<div align="center">
+<dividir alinhar="centro">
 
 ### Linguagens
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<imagem fonte="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logotipo=javascript&logotipoCor=preto" alt="JavaScript" />
+<imagem fonte="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logotipo=python&logoColor=branco" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
